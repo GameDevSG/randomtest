@@ -1,2 +1,2 @@
-hello from local system to GitHub
+hello from github to local windows machine
 
